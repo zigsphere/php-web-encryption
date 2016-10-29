@@ -1,0 +1,28 @@
+
+#password-form{
+	width: 25%;
+	margin: 0px auto;
+}
+
+#password{
+	margin-top: 10%;
+}
+
+#submit{
+	margin-bottom: 10%;
+}
+
+#encryptedpassword{
+	width: 900px;
+	height: 900px;
+	margin: 0px auto;
+}
+
+#resultframe{
+	border: 8px solid #eee;
+	border-radius: 5%;
+}
+
+#content{
+	margin: 10px 0 0 20px;
+}
