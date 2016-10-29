@@ -7,7 +7,7 @@
 <title>Password Encryption</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="/js/bootstrap.min.js">
-<link rel="stylesheet" type="text/css" href="/style/style.css" />
+<link rel="stylesheet" type="text/css" href="custom-style.css" />
 <meta name="description" content="This is a php web-based password encryptor" />
 <meta name="keywords" content="Password Encryption, hash, sha256, sha512" />
 
